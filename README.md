@@ -1,0 +1,1 @@
+# simple.binder.js
